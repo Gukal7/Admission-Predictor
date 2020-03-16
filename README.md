@@ -8,6 +8,7 @@ I built this project with the purpose of helping students in shortlisting univer
 
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
+
 •	GRE Scores ( out of 340 )
 
 •	TOEFL Scores ( out of 120 )
